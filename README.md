@@ -105,6 +105,6 @@ python -m streamlit run app.py
 
 ## Author
 
-**Ashish Yadav** | Senior Life Sciences Executive | AI Strategy and Governance | PrecisionPulse Consulting LLC
-
-Dual ISO Lead Auditor: ISO 42001 (AI Management Systems) + ISO 13485 (Medical Devices QMS)
+**Ashish Yadav**  
+AI Strategy & Governance Executive · Life Sciences & Digital Health  
+[precisionpulseconsulting.com](https://precisionpulseconsulting.com) · [ashish-yadav.com](https://ashish-yadav.com) · [LinkedIn](https://linkedin.com/in/ashishyadav-executive)
